@@ -12,3 +12,4 @@ With streamlit, we will make the project look good and productive
 
 Important lines are commented in the code. \
 **This is an one of a kind project with streamlit. Just had a great fun doing it.**
+To run the project: **streamlit run automate_finance.py**
