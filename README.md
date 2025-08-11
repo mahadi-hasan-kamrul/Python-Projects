@@ -1,4 +1,4 @@
-**This python project mimics Slot Machine which is used for betting.**\
+#**This python project mimics Slot Machine which is used for betting.**\
 It mimics a slot machine with 3 rows and columns,\
 The Symblos are also defined.\
 With deposit() function, we will get the user's balance.\
