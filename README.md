@@ -38,27 +38,26 @@ Role of ffmpeg: \
 YouTube often provides: \
 Video-only streams (high quality video without audio) \
 Audio-only streams (high quality audio without video) \
-FFmpeg combines  separate streams into a single playable  \
+FFmpeg combines  separate streams into a single playable  
 
 2. Format Conversion \
 Converts downloaded videos to different formats: \
 MP4 → WEBM, MOV, AVI, etc. \
-Audio extraction (MP4 → MP3, WAV) \
+Audio extraction (MP4 → MP3, WAV) 
 
 3. Quality Optimization \
 Adjusts bitrates, resolution, and framerates \
-Optimizes file size vs quality balance \
+Optimizes file size vs quality balance 
 
 4. Metadata Handling \
 Adds title, artist, thumbnail, and other metadata to downloaded files \
-Preserves YouTube's original metadata \
+Preserves YouTube's original metadata 
 
 5. Repair and Processing \
 Fixes corrupted downloads \
-Trims/edits videos without re-encoding \
+Trims/edits videos without re-encoding 
 
-After running the project it will ask you the url and the location to save the file. \
-Run and Enjoy \
+** After running the project it will ask you the url and the location to save the file. **
 
 
 # Project 4: Automate Finance with Python, Pandas, Streamlit and Plotpy
