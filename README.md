@@ -24,15 +24,15 @@ Tools can be used freely. But can not be used too much
 
 # Project 3: Fully Workable Youtube Video Downloader with Python
 
-- Install yt-dlp \
-- Download ffmepg from Here - https://github.com/BtbN/FFmpeg-Builds/releases \
-- Download Exactly this one: ffmpeg-master-latest-win64-gpl-shared.zip \
-- Extract it in the same folder of the Project \
-- Rename the folder as ffmpeg \
-- The path has to be defined into the code like this: 'project path\ffmpeg\bin\ffmpeg.exe' \
+- Install yt-dlp 
+- Download ffmepg from Here - https://github.com/BtbN/FFmpeg-Builds/releases 
+- Download Exactly this one: ffmpeg-master-latest-win64-gpl-shared.zip 
+- Extract it in the same folder of the Project 
+- Rename the folder as ffmpeg 
+- The path has to be defined into the code like this: 'project path\ffmpeg\bin\ffmpeg.exe' 
 
 Role of ffmpeg: \
-**ffmpeg plays a crucial role in YouTube video downloading when using tools like yt-dlp**. Here's a breakdown of its role: \
+### **ffmpeg plays a crucial role in YouTube video downloading when using tools like yt-dlp**. Here's a breakdown of its role: 
 
 1. Stream Merging (Most Common Use Case) \
 YouTube often provides: \
