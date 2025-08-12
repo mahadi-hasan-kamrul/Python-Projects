@@ -31,7 +31,7 @@ Tools can be used freely. But can not be used too much
 - Rename the folder as ffmpeg 
 - The path has to be defined into the code like this: 'project path\ffmpeg\bin\ffmpeg.exe' 
 
-Role of ffmpeg: \
+### Role of ffmpeg: 
 ### **ffmpeg plays a crucial role in YouTube video downloading when using tools like yt-dlp**. Here's a breakdown of its role: 
 
 1. Stream Merging (Most Common Use Case) \
