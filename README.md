@@ -16,11 +16,15 @@ In this both you can use what ever you want \
 in tools.py we will add prebuild tools, one for looking in wikipedia, one to go in duckduckgo to search something, another is a custom tool \
 Tools can be used freely. But can not be used too much
 
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Python-Projects/tree/AI-Agent-With-Python
+
 
 # Project 2: Basic games project with Python
 
 ## 1. Simple Quize Game
 ## 2. Rock, Paper, Scissor Gmae with Computer
+
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Python-Projects/tree/Basic-Games-with-Python
 
 # Project 3: Fully Workable Youtube Video Downloader with Python
 
@@ -29,7 +33,7 @@ Tools can be used freely. But can not be used too much
 - Download Exactly this one: ffmpeg-master-latest-win64-gpl-shared.zip 
 - Extract it in the same folder of the Project 
 - Rename the folder as ffmpeg 
-- The path has to be defined into the code like this: 'project path\ffmpeg\bin\ffmpeg.exe' 
+- The path has to be defined into the code like this: 'project path\ffmpeg\bin\ffmpeg.exe'
 
 ### Role of ffmpeg: 
 ### **ffmpeg plays a crucial role in YouTube video downloading when using tools like yt-dlp**. Here's a breakdown of its role: 
@@ -38,7 +42,7 @@ Tools can be used freely. But can not be used too much
 YouTube often provides: \
 Video-only streams (high quality video without audio) \
 Audio-only streams (high quality audio without video) \
-FFmpeg combines  separate streams into a single playable  
+FFmpeg combines  separate streams into a single playable
 
 2. Format Conversion \
 Converts downloaded videos to different formats: \
@@ -58,7 +62,7 @@ Fixes corrupted downloads \
 Trims/edits videos without re-encoding 
 
 ** After running the project it will ask you the url and the location to save the file. **
-
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Python-Projects/tree/Fully_Operatable_Youtube_Video_Downloader_with_Python
 
 # Project 4: Automate Finance with Python, Pandas, Streamlit and Plotpy
 
@@ -76,9 +80,11 @@ Important lines are commented in the code. \
 **This is an one of a kind project with streamlit. Just had a great fun doing it.**
 ## To run the project: **streamlit run automate_finance.py**
 
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Python-Projects/tree/Simple-Automation-of-Finances-with-Python
 # Project 5: Single Queue Simulation Math Problem Solved with Python
 ## Detail of the pre defined problem can be found in the pdf file inside the project folder
 
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Python-Projects/tree/Single-Queue-Simulation-Math-Problem-Solution-with-PYTHON
 # Project 6: Slot Machine (betting) Project with Python
 
 ## It mimics a slot machine with 3 rows and 3columns
@@ -87,7 +93,10 @@ With deposit() function, we will get the user's balance.\
 With lines() function, we will get the number of lines in which the user will gonna bet on.\
 With bet() function, we will get the amount which the user wants to bet on each line. The total bet amount has to be equal or less than the users balance.\
 with get_slot_machine_spin(rows, cols, symbols) we are defining the spin. we will pass our row, col, and symbol list in this function. Check code.\
+
 def print_slot_machine() we will print the slot machine.\
 def spin() will initialize a  game.\
 def main() will start everything, it will take the deposit amount, then the play will start and it will end untill the deposit amount vanishes. The user can quit any time.\
 ## **  Slot machine is a complex architecture. Here, Tried to initiate the project in a very simple manner. **
+
+### Github Repository Link : https://github.com/mahadi-hasan-kamrul/Python-Projects/tree/Slot-Machine-Game-With-Python
